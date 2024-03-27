@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  inner: file:../inner
+
+dependencies:
+  inner: file:../inner
+
+packages:
+
+  file:../inner:
+    resolution: {directory: ../inner, type: directory}
+    name: inner
+    version: 0.1.0
+    dev: false
